@@ -1,0 +1,119 @@
+C:\Users\Sena CSET\Downloads\Naturvida\Solucion Naturvida\CapaNegocios\obj\Debug\CapaNegocios.csproj.AssemblyReference.cache
+C:\Users\Sena CSET\Downloads\Naturvida\Solucion Naturvida\CapaNegocios\obj\Debug\CapaNegocios.csproj.CoreCompileInputs.cache
+C:\Users\Sena CSET\Downloads\Naturvida\Solucion Naturvida\CapaNegocios\bin\Debug\CapaNegocios.dll
+C:\Users\Sena CSET\Downloads\Naturvida\Solucion Naturvida\CapaNegocios\bin\Debug\CapaNegocios.pdb
+C:\Users\Sena CSET\Downloads\Naturvida\Solucion Naturvida\CapaNegocios\bin\Debug\CapaDatos.dll
+C:\Users\Sena CSET\Downloads\Naturvida\Solucion Naturvida\CapaNegocios\bin\Debug\CE_Entidades.dll
+C:\Users\Sena CSET\Downloads\Naturvida\Solucion Naturvida\CapaNegocios\bin\Debug\CapaDatos.pdb
+C:\Users\Sena CSET\Downloads\Naturvida\Solucion Naturvida\CapaNegocios\bin\Debug\CE_Entidades.pdb
+C:\Users\Sena CSET\Downloads\Naturvida\Solucion Naturvida\CapaNegocios\obj\Debug\CapaNegocios.csproj.CopyComplete
+C:\Users\Sena CSET\Downloads\Naturvida\Solucion Naturvida\CapaNegocios\obj\Debug\CapaNegocios.dll
+C:\Users\Sena CSET\Downloads\Naturvida\Solucion Naturvida\CapaNegocios\obj\Debug\CapaNegocios.pdb
+C:\Users\Sena CSET\Desktop\Naturvida\Solucion Naturvida\CapaNegocios\bin\Debug\CapaNegocios.dll
+C:\Users\Sena CSET\Desktop\Naturvida\Solucion Naturvida\CapaNegocios\bin\Debug\CapaNegocios.pdb
+C:\Users\Sena CSET\Desktop\Naturvida\Solucion Naturvida\CapaNegocios\bin\Debug\CapaDatos.dll
+C:\Users\Sena CSET\Desktop\Naturvida\Solucion Naturvida\CapaNegocios\bin\Debug\CE_Entidades.dll
+C:\Users\Sena CSET\Desktop\Naturvida\Solucion Naturvida\CapaNegocios\bin\Debug\CapaDatos.pdb
+C:\Users\Sena CSET\Desktop\Naturvida\Solucion Naturvida\CapaNegocios\bin\Debug\CE_Entidades.pdb
+C:\Users\Sena CSET\Desktop\Naturvida\Solucion Naturvida\CapaNegocios\obj\Debug\CapaNegocios.csproj.AssemblyReference.cache
+C:\Users\Sena CSET\Desktop\Naturvida\Solucion Naturvida\CapaNegocios\obj\Debug\CapaNegocios.csproj.CoreCompileInputs.cache
+C:\Users\Sena CSET\Desktop\Naturvida\Solucion Naturvida\CapaNegocios\obj\Debug\CapaNegocios.csproj.CopyComplete
+C:\Users\Sena CSET\Desktop\Naturvida\Solucion Naturvida\CapaNegocios\obj\Debug\CapaNegocios.dll
+C:\Users\Sena CSET\Desktop\Naturvida\Solucion Naturvida\CapaNegocios\obj\Debug\CapaNegocios.pdb
+C:\Users\carlo\Downloads\Naturvida 3\Solucion Naturvida\CapaNegocios\bin\Debug\CapaNegocios.dll
+C:\Users\carlo\Downloads\Naturvida 3\Solucion Naturvida\CapaNegocios\bin\Debug\CapaNegocios.pdb
+C:\Users\carlo\Downloads\Naturvida 3\Solucion Naturvida\CapaNegocios\bin\Debug\CapaDatos.dll
+C:\Users\carlo\Downloads\Naturvida 3\Solucion Naturvida\CapaNegocios\bin\Debug\CE_Entidades.dll
+C:\Users\carlo\Downloads\Naturvida 3\Solucion Naturvida\CapaNegocios\bin\Debug\CapaDatos.pdb
+C:\Users\carlo\Downloads\Naturvida 3\Solucion Naturvida\CapaNegocios\bin\Debug\CE_Entidades.pdb
+C:\Users\carlo\Downloads\Naturvida 3\Solucion Naturvida\CapaNegocios\obj\Debug\CapaNegocios.csproj.AssemblyReference.cache
+C:\Users\carlo\Downloads\Naturvida 3\Solucion Naturvida\CapaNegocios\obj\Debug\CapaNegocios.csproj.CoreCompileInputs.cache
+C:\Users\carlo\Downloads\Naturvida 3\Solucion Naturvida\CapaNegocios\obj\Debug\CapaNegocios.csproj.CopyComplete
+C:\Users\carlo\Downloads\Naturvida 3\Solucion Naturvida\CapaNegocios\obj\Debug\CapaNegocios.dll
+C:\Users\carlo\Downloads\Naturvida 3\Solucion Naturvida\CapaNegocios\obj\Debug\CapaNegocios.pdb
+C:\Users\Sena CSET\Desktop\Naturvida 3\Solucion Naturvida\CapaNegocios\bin\Debug\CapaNegocios.dll
+C:\Users\Sena CSET\Desktop\Naturvida 3\Solucion Naturvida\CapaNegocios\bin\Debug\CapaNegocios.pdb
+C:\Users\Sena CSET\Desktop\Naturvida 3\Solucion Naturvida\CapaNegocios\bin\Debug\CapaDatos.dll
+C:\Users\Sena CSET\Desktop\Naturvida 3\Solucion Naturvida\CapaNegocios\bin\Debug\CE_Entidades.dll
+C:\Users\Sena CSET\Desktop\Naturvida 3\Solucion Naturvida\CapaNegocios\bin\Debug\CapaDatos.pdb
+C:\Users\Sena CSET\Desktop\Naturvida 3\Solucion Naturvida\CapaNegocios\bin\Debug\CE_Entidades.pdb
+C:\Users\Sena CSET\Desktop\Naturvida 3\Solucion Naturvida\CapaNegocios\obj\Debug\CapaNegocios.csproj.AssemblyReference.cache
+C:\Users\Sena CSET\Desktop\Naturvida 3\Solucion Naturvida\CapaNegocios\obj\Debug\CapaNegocios.csproj.CoreCompileInputs.cache
+C:\Users\Sena CSET\Desktop\Naturvida 3\Solucion Naturvida\CapaNegocios\obj\Debug\CapaNegocios.csproj.CopyComplete
+C:\Users\Sena CSET\Desktop\Naturvida 3\Solucion Naturvida\CapaNegocios\obj\Debug\CapaNegocios.dll
+C:\Users\Sena CSET\Desktop\Naturvida 3\Solucion Naturvida\CapaNegocios\obj\Debug\CapaNegocios.pdb
+C:\Users\carlo\Downloads\Naturvida 3.1\Naturvida 3\Solucion Naturvida\CapaNegocios\bin\Debug\CapaNegocios.dll
+C:\Users\carlo\Downloads\Naturvida 3.1\Naturvida 3\Solucion Naturvida\CapaNegocios\bin\Debug\CapaNegocios.pdb
+C:\Users\carlo\Downloads\Naturvida 3.1\Naturvida 3\Solucion Naturvida\CapaNegocios\bin\Debug\CapaDatos.dll
+C:\Users\carlo\Downloads\Naturvida 3.1\Naturvida 3\Solucion Naturvida\CapaNegocios\bin\Debug\CE_Entidades.dll
+C:\Users\carlo\Downloads\Naturvida 3.1\Naturvida 3\Solucion Naturvida\CapaNegocios\bin\Debug\CapaDatos.pdb
+C:\Users\carlo\Downloads\Naturvida 3.1\Naturvida 3\Solucion Naturvida\CapaNegocios\bin\Debug\CE_Entidades.pdb
+C:\Users\carlo\Downloads\Naturvida 3.1\Naturvida 3\Solucion Naturvida\CapaNegocios\obj\Debug\CapaNegocios.csproj.AssemblyReference.cache
+C:\Users\carlo\Downloads\Naturvida 3.1\Naturvida 3\Solucion Naturvida\CapaNegocios\obj\Debug\CapaNegocios.csproj.CoreCompileInputs.cache
+C:\Users\carlo\Downloads\Naturvida 3.1\Naturvida 3\Solucion Naturvida\CapaNegocios\obj\Debug\CapaNegocios.csproj.CopyComplete
+C:\Users\carlo\Downloads\Naturvida 3.1\Naturvida 3\Solucion Naturvida\CapaNegocios\obj\Debug\CapaNegocios.dll
+C:\Users\carlo\Downloads\Naturvida 3.1\Naturvida 3\Solucion Naturvida\CapaNegocios\obj\Debug\CapaNegocios.pdb
+C:\Users\Aprendiz.BUCDFPCSEFSD025\Downloads\Naturvida 3.1\Naturvida 3\Solucion Naturvida\CapaNegocios\bin\Debug\CapaNegocios.dll
+C:\Users\Aprendiz.BUCDFPCSEFSD025\Downloads\Naturvida 3.1\Naturvida 3\Solucion Naturvida\CapaNegocios\bin\Debug\CapaNegocios.pdb
+C:\Users\Aprendiz.BUCDFPCSEFSD025\Downloads\Naturvida 3.1\Naturvida 3\Solucion Naturvida\CapaNegocios\bin\Debug\CapaDatos.dll
+C:\Users\Aprendiz.BUCDFPCSEFSD025\Downloads\Naturvida 3.1\Naturvida 3\Solucion Naturvida\CapaNegocios\bin\Debug\CE_Entidades.dll
+C:\Users\Aprendiz.BUCDFPCSEFSD025\Downloads\Naturvida 3.1\Naturvida 3\Solucion Naturvida\CapaNegocios\bin\Debug\CapaDatos.pdb
+C:\Users\Aprendiz.BUCDFPCSEFSD025\Downloads\Naturvida 3.1\Naturvida 3\Solucion Naturvida\CapaNegocios\bin\Debug\CE_Entidades.pdb
+C:\Users\Aprendiz.BUCDFPCSEFSD025\Downloads\Naturvida 3.1\Naturvida 3\Solucion Naturvida\CapaNegocios\obj\Debug\CapaNegocios.csproj.AssemblyReference.cache
+C:\Users\Aprendiz.BUCDFPCSEFSD025\Downloads\Naturvida 3.1\Naturvida 3\Solucion Naturvida\CapaNegocios\obj\Debug\CapaNegocios.csproj.CoreCompileInputs.cache
+C:\Users\Aprendiz.BUCDFPCSEFSD025\Downloads\Naturvida 3.1\Naturvida 3\Solucion Naturvida\CapaNegocios\obj\Debug\CapaNegocios.csproj.CopyComplete
+C:\Users\Aprendiz.BUCDFPCSEFSD025\Downloads\Naturvida 3.1\Naturvida 3\Solucion Naturvida\CapaNegocios\obj\Debug\CapaNegocios.dll
+C:\Users\Aprendiz.BUCDFPCSEFSD025\Downloads\Naturvida 3.1\Naturvida 3\Solucion Naturvida\CapaNegocios\obj\Debug\CapaNegocios.pdb
+C:\Users\carlo\Downloads\Naturvida 3.2\Naturvida 3\Solucion Naturvida\CapaNegocios\bin\Debug\CapaNegocios.dll
+C:\Users\carlo\Downloads\Naturvida 3.2\Naturvida 3\Solucion Naturvida\CapaNegocios\bin\Debug\CapaNegocios.pdb
+C:\Users\carlo\Downloads\Naturvida 3.2\Naturvida 3\Solucion Naturvida\CapaNegocios\bin\Debug\CapaDatos.dll
+C:\Users\carlo\Downloads\Naturvida 3.2\Naturvida 3\Solucion Naturvida\CapaNegocios\bin\Debug\CE_Entidades.dll
+C:\Users\carlo\Downloads\Naturvida 3.2\Naturvida 3\Solucion Naturvida\CapaNegocios\bin\Debug\CapaDatos.pdb
+C:\Users\carlo\Downloads\Naturvida 3.2\Naturvida 3\Solucion Naturvida\CapaNegocios\bin\Debug\CE_Entidades.pdb
+C:\Users\carlo\Downloads\Naturvida 3.2\Naturvida 3\Solucion Naturvida\CapaNegocios\obj\Debug\CapaNegocios.csproj.AssemblyReference.cache
+C:\Users\carlo\Downloads\Naturvida 3.2\Naturvida 3\Solucion Naturvida\CapaNegocios\obj\Debug\CapaNegocios.csproj.CoreCompileInputs.cache
+C:\Users\carlo\Downloads\Naturvida 3.2\Naturvida 3\Solucion Naturvida\CapaNegocios\obj\Debug\CapaNegocios.csproj.CopyComplete
+C:\Users\carlo\Downloads\Naturvida 3.2\Naturvida 3\Solucion Naturvida\CapaNegocios\obj\Debug\CapaNegocios.dll
+C:\Users\carlo\Downloads\Naturvida 3.2\Naturvida 3\Solucion Naturvida\CapaNegocios\obj\Debug\CapaNegocios.pdb
+C:\Users\Sena CSET\Desktop\Naturvida 3.3\Naturvida 3\Solucion Naturvida\CapaNegocios\bin\Debug\CapaNegocios.dll
+C:\Users\Sena CSET\Desktop\Naturvida 3.3\Naturvida 3\Solucion Naturvida\CapaNegocios\bin\Debug\CapaNegocios.pdb
+C:\Users\Sena CSET\Desktop\Naturvida 3.3\Naturvida 3\Solucion Naturvida\CapaNegocios\bin\Debug\CapaDatos.dll
+C:\Users\Sena CSET\Desktop\Naturvida 3.3\Naturvida 3\Solucion Naturvida\CapaNegocios\bin\Debug\CE_Entidades.dll
+C:\Users\Sena CSET\Desktop\Naturvida 3.3\Naturvida 3\Solucion Naturvida\CapaNegocios\bin\Debug\CapaDatos.pdb
+C:\Users\Sena CSET\Desktop\Naturvida 3.3\Naturvida 3\Solucion Naturvida\CapaNegocios\bin\Debug\CE_Entidades.pdb
+C:\Users\Sena CSET\Desktop\Naturvida 3.3\Naturvida 3\Solucion Naturvida\CapaNegocios\obj\Debug\CapaNegocios.csproj.AssemblyReference.cache
+C:\Users\Sena CSET\Desktop\Naturvida 3.3\Naturvida 3\Solucion Naturvida\CapaNegocios\obj\Debug\CapaNegocios.csproj.CoreCompileInputs.cache
+C:\Users\Sena CSET\Desktop\Naturvida 3.3\Naturvida 3\Solucion Naturvida\CapaNegocios\obj\Debug\CapaNegocios.csproj.CopyComplete
+C:\Users\Sena CSET\Desktop\Naturvida 3.3\Naturvida 3\Solucion Naturvida\CapaNegocios\obj\Debug\CapaNegocios.dll
+C:\Users\Sena CSET\Desktop\Naturvida 3.3\Naturvida 3\Solucion Naturvida\CapaNegocios\obj\Debug\CapaNegocios.pdb
+C:\Users\Sena CSET\Desktop\Naturvida 3.3\Naturvida 3\Solucion Naturvida\CapaNegocios\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Sena CSET\Desktop\Naturvida 3.3\Naturvida 3\Solucion Naturvida\CapaNegocios\bin\Debug\itextsharp.dll
+C:\Users\Sena CSET\Desktop\Naturvida 3.3\Naturvida 3\Solucion Naturvida\CapaNegocios\bin\Debug\itextsharp.xml
+C:\Users\cadavid orejarena\Desktop\Naturvida 3.3\Naturvida 3\Solucion Naturvida\CapaNegocios\bin\Debug\CapaNegocios.dll
+C:\Users\cadavid orejarena\Desktop\Naturvida 3.3\Naturvida 3\Solucion Naturvida\CapaNegocios\bin\Debug\CapaNegocios.pdb
+C:\Users\cadavid orejarena\Desktop\Naturvida 3.3\Naturvida 3\Solucion Naturvida\CapaNegocios\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\cadavid orejarena\Desktop\Naturvida 3.3\Naturvida 3\Solucion Naturvida\CapaNegocios\bin\Debug\CapaDatos.dll
+C:\Users\cadavid orejarena\Desktop\Naturvida 3.3\Naturvida 3\Solucion Naturvida\CapaNegocios\bin\Debug\CE_Entidades.dll
+C:\Users\cadavid orejarena\Desktop\Naturvida 3.3\Naturvida 3\Solucion Naturvida\CapaNegocios\bin\Debug\itextsharp.dll
+C:\Users\cadavid orejarena\Desktop\Naturvida 3.3\Naturvida 3\Solucion Naturvida\CapaNegocios\bin\Debug\CapaDatos.pdb
+C:\Users\cadavid orejarena\Desktop\Naturvida 3.3\Naturvida 3\Solucion Naturvida\CapaNegocios\bin\Debug\CE_Entidades.pdb
+C:\Users\cadavid orejarena\Desktop\Naturvida 3.3\Naturvida 3\Solucion Naturvida\CapaNegocios\bin\Debug\itextsharp.xml
+C:\Users\cadavid orejarena\Desktop\Naturvida 3.3\Naturvida 3\Solucion Naturvida\CapaNegocios\obj\Debug\CapaNegocios.csproj.AssemblyReference.cache
+C:\Users\cadavid orejarena\Desktop\Naturvida 3.3\Naturvida 3\Solucion Naturvida\CapaNegocios\obj\Debug\CapaNegocios.csproj.CoreCompileInputs.cache
+C:\Users\cadavid orejarena\Desktop\Naturvida 3.3\Naturvida 3\Solucion Naturvida\CapaNegocios\obj\Debug\CapaNegocios.csproj.CopyComplete
+C:\Users\cadavid orejarena\Desktop\Naturvida 3.3\Naturvida 3\Solucion Naturvida\CapaNegocios\obj\Debug\CapaNegocios.dll
+C:\Users\cadavid orejarena\Desktop\Naturvida 3.3\Naturvida 3\Solucion Naturvida\CapaNegocios\obj\Debug\CapaNegocios.pdb
+C:\Users\cadavid orejarena\Desktop\miguel\analisis y desarrollo de software\C#\Naturvida 3.4\Naturvida 3\Solucion Naturvida\CapaNegocios\bin\Debug\CapaNegocios.dll
+C:\Users\cadavid orejarena\Desktop\miguel\analisis y desarrollo de software\C#\Naturvida 3.4\Naturvida 3\Solucion Naturvida\CapaNegocios\bin\Debug\CapaNegocios.pdb
+C:\Users\cadavid orejarena\Desktop\miguel\analisis y desarrollo de software\C#\Naturvida 3.4\Naturvida 3\Solucion Naturvida\CapaNegocios\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\cadavid orejarena\Desktop\miguel\analisis y desarrollo de software\C#\Naturvida 3.4\Naturvida 3\Solucion Naturvida\CapaNegocios\bin\Debug\CapaDatos.dll
+C:\Users\cadavid orejarena\Desktop\miguel\analisis y desarrollo de software\C#\Naturvida 3.4\Naturvida 3\Solucion Naturvida\CapaNegocios\bin\Debug\CE_Entidades.dll
+C:\Users\cadavid orejarena\Desktop\miguel\analisis y desarrollo de software\C#\Naturvida 3.4\Naturvida 3\Solucion Naturvida\CapaNegocios\bin\Debug\itextsharp.dll
+C:\Users\cadavid orejarena\Desktop\miguel\analisis y desarrollo de software\C#\Naturvida 3.4\Naturvida 3\Solucion Naturvida\CapaNegocios\bin\Debug\CapaDatos.pdb
+C:\Users\cadavid orejarena\Desktop\miguel\analisis y desarrollo de software\C#\Naturvida 3.4\Naturvida 3\Solucion Naturvida\CapaNegocios\bin\Debug\CE_Entidades.pdb
+C:\Users\cadavid orejarena\Desktop\miguel\analisis y desarrollo de software\C#\Naturvida 3.4\Naturvida 3\Solucion Naturvida\CapaNegocios\bin\Debug\itextsharp.xml
+C:\Users\cadavid orejarena\Desktop\miguel\analisis y desarrollo de software\C#\Naturvida 3.4\Naturvida 3\Solucion Naturvida\CapaNegocios\obj\Debug\CapaNegocios.csproj.AssemblyReference.cache
+C:\Users\cadavid orejarena\Desktop\miguel\analisis y desarrollo de software\C#\Naturvida 3.4\Naturvida 3\Solucion Naturvida\CapaNegocios\obj\Debug\CapaNegocios.csproj.CoreCompileInputs.cache
+C:\Users\cadavid orejarena\Desktop\miguel\analisis y desarrollo de software\C#\Naturvida 3.4\Naturvida 3\Solucion Naturvida\CapaNegocios\obj\Debug\CapaNegocios.csproj.CopyComplete
+C:\Users\cadavid orejarena\Desktop\miguel\analisis y desarrollo de software\C#\Naturvida 3.4\Naturvida 3\Solucion Naturvida\CapaNegocios\obj\Debug\CapaNegocios.dll
+C:\Users\cadavid orejarena\Desktop\miguel\analisis y desarrollo de software\C#\Naturvida 3.4\Naturvida 3\Solucion Naturvida\CapaNegocios\obj\Debug\CapaNegocios.pdb
